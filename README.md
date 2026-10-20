@@ -112,10 +112,4 @@ cd smart-fridge-firebase-ai
 
 ---
 
-## 📄 License
-
-This project is described as being distributed under the **MIT License**. See the `LICENSE` file for the full terms.
-
----
-
 *Developed for Institut Marianao — A1: Cloud Backend module.*
