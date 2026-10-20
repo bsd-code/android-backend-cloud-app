@@ -102,10 +102,4 @@ Estructura de la colección `ingredients` asociada a la cuenta del usuario auten
 
 ---
 
-## 📄 Licencia
-
-Este proyecto se distribuye bajo la licencia **MIT**. Consulta el archivo `LICENSE` para más información.
-
----
-
 Developed for **Institut Marianao** - *A1 Pràctica Backend al núvol*.
