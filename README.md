@@ -86,7 +86,7 @@ Estructura de la colección `ingredients` asociada a la cuenta del usuario auten
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/TU_USUARIO/smart-fridge-firebase-ai.git
+   git clone https://github.com/bsd-code/smart-fridge-firebase-ai.git
    ```
 
 2. **Configurar Firebase:**
